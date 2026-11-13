@@ -419,10 +419,6 @@ A comprehensive directory of open source large language models, comparing archit
 - [Qwen3-235B-A22B](https://qwenlm.github.io/) - Qwen3-235B-A22B features a MoE architecture with 235B total parameters and 22B activated parameters. It uniquely supports seamless switching between thinking mode for complex logical reasoning and non-thinking mode for efficient dialogue. The model demonstrates enhanced reasoning capabilities, superior human preference alignment, excellent agent capabilities for tool integration, and supports over 100 languages with strong multilingual instruction following. ([Read more](/details/qwen3-235b-a22b.md)) `Mixture Of Experts` `Dual Mode` `Multilingual`
 
 
-## ⭐ Star History
-
-[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-open-source-llms&type=Date)](https://stats-github.ever.works/#ever-works/awesome-open-source-llms&Date)
-
 ## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.

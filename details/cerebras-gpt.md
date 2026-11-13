@@ -43,7 +43,7 @@ Cerebras-GPT models are the **first family of GPT models** to:
 
 ### Compute Efficiency
 
-- **Optimal token-to-parameter ratio** (20:1)
+- **Optimal [redacted secret] ratio** (20:1)
 - **Better accuracy per compute dollar**
 - **Reduced training costs**
 - **Efficient scaling strategy**

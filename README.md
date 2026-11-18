@@ -23,11 +23,12 @@ A comprehensive directory of open source large language models, comparing archit
 - [Low-Code Agent Platform (1)](#low-code-agent-platform)
 - [Agent Tools (1)](#agent-tools)
 - [AI Safety & Guardrails (14)](#ai-safety--guardrails)
+- [AI Safety & Guardrails (1)](#ai-safety--guardrails-1)
 - [Code Generation (3)](#code-generation)
 - [Embedding Models (7)](#embedding-models)
 - [Language-Specific LLMs (1)](#language-specific-llms)
 - [Large Language Model (11)](#large-language-model)
-- [Large Language Model (1)](#large-language-model-1)
+- [Large Language Model (2)](#large-language-model-1)
 - [Llm Research (1)](#llm-research-1)
 - [LLM Research (1)](#llm-research-2)
 - [Reasoning Models (2)](#reasoning-models-1)
@@ -367,6 +368,10 @@ A comprehensive directory of open source large language models, comparing archit
 - [Vertex AI Safety Filters](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/configure-safety-filters) - Google Cloud Vertex AI's built-in safety filtering system that classifies LLM outputs across harm categories and adjusts filtering thresholds. Supports customizable safety settings for responsible generative AI deployment. ([Read more](/details/vertex-ai-safety-filters.md)) `Google Cloud` `Safety Settings` `Harm Classification`
 - [Vijil Dome](https://www.vijil.ai/) - Vijil Dome is a guardrails-as-a-service platform that provides a hosted guardrail API using fine-tuned LLMs and custom ML models to evaluate prompts and responses. It covers known jailbreak scenarios including 15+ DAN-style attacks and offers integration with monitoring tools like Weights & Biases. ([Read more](/details/vijil-dome.md)) `Guardrails As A Service` `Jailbreak Detection` `Hosted Api`
 
+## AI Safety & Guardrails
+
+- [video translate](https://videotranslators.com/) - Video Translate: AI Video Translator in Your Voice `Coding` `Instruction Tuned` `Apache 2.0`
+
 ## Code Generation
 
 - [GLM-5](https://www.zhipuai.cn/en/glm-5) - Z AI's open-source coding model scoring 49.6 quality score in January 2026 rankings. Features reasoning capabilities and provides a competitive open alternative to proprietary coding models with strong performance across LiveCodeBench, Terminal-Bench, and SciCode benchmarks. ([Read more](/details/glm-5-reasoning.md)) `Open Source` `Reasoning` `Coding`
@@ -404,6 +409,7 @@ A comprehensive directory of open source large language models, comparing archit
 ## Large Language Model
 
 - [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) - The Mistral-7B-v0.1 Large Language Model (LLM) is a pretrained generative text model with 7 billion parameters. Mistral-7B-v0.1 outperforms Llama 2 13B on all benchmarks tested. ([Read more](/details/mistral-7b-v01.md)) `Open Source` `7B` `Transformer`
+- [video translate](https://videotranslators.com/) - Video Translate: AI Video Translator in Your Voice `Coding` `Instruction Tuned` `Apache 2.0`
 
 ## Llm Research
 
